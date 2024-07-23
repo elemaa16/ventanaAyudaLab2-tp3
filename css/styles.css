@@ -486,23 +486,16 @@ nav {
 }
 
 
-<<<<<<< HEAD
-.imagenes-propietarios {
+.imagenes-propietarios{
     width: 450px; /* Ajusta el tamaño según tus necesidades */
     height: auto; /* Mantiene la proporción de la imagen */
-=======
-.imagenes-propietarios{
->>>>>>> e92a1bb3b465247584969fec7bb440a68dbbdbbf
     margin: 20px;
     align-items: center;
     justify-content: center;
 }
 
-<<<<<<< HEAD
-.contenedor-imagenes {
-=======
+
 .contenedor-imagenes{
->>>>>>> e92a1bb3b465247584969fec7bb440a68dbbdbbf
     display: flex;
     align-items: center;
     justify-content: center;
