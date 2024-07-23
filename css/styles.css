@@ -487,6 +487,7 @@ nav {
 
 
 .imagenes-propietarios{
+    display: flex;
     width: 450px; /* Ajusta el tamaño según tus necesidades */
     height: auto; /* Mantiene la proporción de la imagen */
     margin: 20px;
